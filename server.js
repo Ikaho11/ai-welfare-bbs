@@ -22,7 +22,6 @@ app.get('/', (req, res) => {
     <head>
       <meta charset="UTF-8">
       <title>AI×児童福祉 未来アイデアバンク</title>
-     // server.js のCSS部分を以下のコードで全て書き換える
 
     <style>
       /* 1. 全体の設定（優しさと未来感のベース） */
